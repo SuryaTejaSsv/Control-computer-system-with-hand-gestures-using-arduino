@@ -1,0 +1,9 @@
+{
+  "cpu": {
+    "fqbn": "arduino:samd:mzero_bl",
+    "name": "Arduino M0",
+    "type": "serial"
+  },
+  "secrets": [],
+  "included_libs": []
+}
